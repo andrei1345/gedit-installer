@@ -20,7 +20,7 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\gedit
 DisableProgramGroupPage=yes
-LicenseFile=C:\Users\Andrey\Downloads\gedit\license\COPYING.rtf
+LicenseFile=\license\COPYING.rtf
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputBaseFilename=gedit-setup
